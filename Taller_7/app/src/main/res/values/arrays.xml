@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <array name="seriesImages">
+        <item>@drawable/black_mirror</item>
+        <item>@drawable/crown</item>
+        <item>@drawable/glow</item>
+        <item>@drawable/lucifer</item>
+        <item>@drawable/stranger_things</item>
+        <item>@drawable/you</item>
+    </array>
+
+    <string-array name="seriesNames">
+        <item>Black Mirror</item>
+        <item>Crown</item>
+        <item>Glow</item>
+        <item>Lucifer</item>
+        <item>Stranger things</item>
+        <item>You</item>
+    </string-array>
+
+    <integer-array name="seriesSeasons">
+        <item>5</item>
+        <item>3</item>
+        <item>2</item>
+        <item>2</item>
+        <item>5</item>
+        <item>5</item>
+    </integer-array>
+
+    <array name="seasonsImages">
+        <item>@drawable/season1</item>
+        <item>@drawable/season2</item>
+        <item>@drawable/season3</item>
+        <item>@drawable/season4</item>
+        <item>@drawable/season5</item>
+    </array>
+
+
+    <integer name="Black_Mirror_seasons">5</integer>
+    <integer name="Crown_seasons">3</integer>
+    <integer name="Glow_seasons">2</integer>
+    <integer name="Lucifer_seasons">2</integer>
+    <integer name="Stranger_things_seasons">5</integer>
+    <integer name="You_seasons">5</integer>
+
+
+    <string-array name="seasonsNames">
+        <item>Season 1</item>
+        <item>Season 2</item>
+        <item>Season 3</item>
+        <item>Season 4</item>
+        <item>Season 5</item>
+    </string-array>
+
+    <string-array name="chaptersTitles">
+        <item>Chapter 1</item>
+        <item>Chapter 2</item>
+        <item>Chapter 3</item>
+        <item>Chapter 4</item>
+        <item>Chapter 5</item>
+    </string-array>
+
+    <string-array name="chaptersNames">
+        <item>In the name of love</item>
+        <item>The sun goes down</item>
+        <item>Good morning Sara</item>
+        <item>A new adventure</item>
+        <item>Google vs Huawei</item>
+    </string-array>
+
+    <string-array name="chaptersDurations">
+        <item>30:42</item>
+        <item>45:23</item>
+        <item>52:12</item>
+        <item>35:08</item>
+        <item>46:04</item>
+    </string-array>
+
+</resources>

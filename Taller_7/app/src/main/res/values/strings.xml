@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">Taller_7</string>
+
+    <string name="testText">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Ut ac justo libero. In leo odio, sollicitudin a ex id, condimentum lacinia elit. Curabitur eget euismod mauris, in hendrerit lorem. Suspendisse tortor arcu, venenatis vel augue in, dictum convallis augue. Integer pharetra fermentum massa, eget dignissim lectus lobortis in. Nulla tincidunt at ipsum sed vehicula. Nullam tempus arcu vitae sem venenatis ultricies. Nulla in risus id lacus congue auctor. Nunc orci dolor, aliquet ac convallis ac, pharetra a dolor. Quisque vitae consequat magna. Ut scelerisque, quam eget auctor maximus, nisl ante condimentum ante, ut euismod diam velit et ex. In dapibus imperdiet ligula, a cursus metus venenatis sit amet. Maecenas nec sapien at dolor hendrerit mollis id eu erat.</string>
 </resources>
